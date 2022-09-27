@@ -1,0 +1,47 @@
+.myBackGround{
+    height: 100vh;
+    background: url("../assets/images/background/bg-2.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height:300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight:800;
+    line-height:1;
+    text-shadow:2px 2px black;
+    letter-spacing:3px;
+}
+
+.myTrending{
+    height: auto;
+    background: url("../assets/images/background/bg-1.jpg");
+    background-size: cover;
+}
+
+.mySuperHero{
+    height: auto;
+    background: url("../assets/images/background/bg-3.jpg");
+    background-size: cover;
+}
+
+.movieWrapper{
+
+}
+
+.movieImage{
+    height:auto;
+    background-colour:black;
+    margin:5px;
+    padding:5px;
+}
+
+.images{
+    height:500px;
+}
